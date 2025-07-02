@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshmi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmi" alt="poojitha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmi" alt="lakshmi" /></a> </p>
 
 - 🔭 I’m currently working on *Bike Rental Website*
 
@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojitha&show_icons=true&locale=en&layout=compact" alt="poojitha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojitha&show_icons=true&locale=en" alt="poojitha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojitha&show_icons=true&locale=en" alt="lakshmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojitha&" alt="poojitha" /></p>
 
